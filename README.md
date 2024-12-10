@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a CS Grad student at Northeastern University. <br>👯 I’m looking for Summer 2023 Internship roles as a Software Engineer / Data Engineer.<br>🤝 I’m looking for research groups interested in data security and privacy.<br>🌱 I’m currently learning Design Patterns using JAVA and IOS Development.<br>⚡ Give me a Red Bull and I can code for nights
+🔭 I’m currently working as a Data Scientist at a Private Equity firm in Boston, MA
 
 
 ## 🌐 Socials:
