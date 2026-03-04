@@ -50,3 +50,7 @@ The goal isn't just document extraction — it's building a **realistic AI infra
 ---
 
 ✨ More projects coming soon — exploring **AI agents, web automation, and intelligent research systems.**
+
+# Explore me on Git City
+<img width="1264" height="719" alt="image" src="https://github.com/user-attachments/assets/4ddf8eda-5ec1-4846-a1b0-ab2c847c7e65" />
+
